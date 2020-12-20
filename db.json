@@ -1,0 +1,37 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "name": "Raj2",
+      "lastName": "Varma",
+      "mobile": 9845781256,
+      "code": "emp-001",
+      "email": "Pune",
+      "password": "Devloper"
+    },
+    {
+      "id": 3,
+      "name": "Rohit",
+      "lastName": "Sharma",
+      "mobile": 9132451202,
+      "code": "emp-003",
+      "email": "Pune",
+      "password": "UI Devloper"
+    },
+    {
+      "id": 4,
+      "name": "Gopal3",
+      "lastName": "Jadhav",
+      "password": "Devloper",
+      "contact": "7854785478",
+      "email": "Pune"
+    },
+    {
+      "name": "Cristian Romero",
+      "mobile": "2121",
+      "email": "ccristiandarioromero@gmail.com",
+      "password": "121212",
+      "id": 5
+    }
+  ]
+}
